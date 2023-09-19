@@ -1,0 +1,32 @@
+<html>
+    <Head>
+        <Title>File Berbahaya</Title>
+        <link rel="stylesheet" href="style.css" />
+    </Head>
+    <body>
+        <template> hore </template>
+        <!-- NAVIGATION BAR -->
+        <div class="navbar-container">
+        <ul>
+            <li>HOME</li>
+            <li>About me</li>
+            <li>Contac me</li>
+        </ul>
+        </div>
+        <!-- NAVIGATION BAR -->
+
+        <!-- CONTENT 1 -->
+        <div>
+            <img src="OIP.jpeg" width="700" height="500"/>
+        </div>
+        <!-- CONTENT 1 END -->
+
+        <!-- FOOTER  -->
+        <div>
+            <h1>Assalamu'alaikum</h1>
+            <h2>Hai...</h2>
+            <h3>Apa ya...</h3>
+        </div>
+        <!-- FOOTER END -->
+    </body>
+</html>
